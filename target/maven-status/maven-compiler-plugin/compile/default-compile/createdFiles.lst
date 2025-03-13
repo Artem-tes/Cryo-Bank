@@ -1,0 +1,8 @@
+org/webapplication/backend/controllers/BorderController.class
+org/webapplication/utils/MySessionFactory.class
+org/webapplication/backend/models/User.class
+org/webapplication/repositories/LoginRegRepository.class
+org/webapplication/services/RegistrationService.class
+org/webapplication/backend/controllers/MainController.class
+org/webapplication/backend/dialects/SQLiteDialect.class
+org/webapplication/backend/controllers/LoginController.class

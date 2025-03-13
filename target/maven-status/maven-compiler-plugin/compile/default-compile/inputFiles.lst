@@ -1,0 +1,8 @@
+/home/arch/IdeaProjects/SpringMVC/src/main/java/org/webapplication/backend/controllers/BorderController.java
+/home/arch/IdeaProjects/SpringMVC/src/main/java/org/webapplication/backend/controllers/LoginController.java
+/home/arch/IdeaProjects/SpringMVC/src/main/java/org/webapplication/backend/controllers/MainController.java
+/home/arch/IdeaProjects/SpringMVC/src/main/java/org/webapplication/backend/dialects/SQLiteDialect.java
+/home/arch/IdeaProjects/SpringMVC/src/main/java/org/webapplication/backend/models/User.java
+/home/arch/IdeaProjects/SpringMVC/src/main/java/org/webapplication/repositories/LoginRegRepository.java
+/home/arch/IdeaProjects/SpringMVC/src/main/java/org/webapplication/services/RegistrationService.java
+/home/arch/IdeaProjects/SpringMVC/src/main/java/org/webapplication/utils/MySessionFactory.java
